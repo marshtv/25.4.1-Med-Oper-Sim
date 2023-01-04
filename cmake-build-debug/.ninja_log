@@ -1,0 +1,16 @@
+# ninja log v5
+6	466	6944879105425352	CMakeFiles/25_4_1_Med_Oper_Sim.dir/src/main.cpp.obj	dae704e7cea07081
+1	200	6944941435045079	build.ninja	32b92992e61bbb81
+0	477	6944879105535241	CMakeFiles/25_4_1_Med_Oper_Sim.dir/src/coordinates.cpp.obj	d47d1e21de4bf9f6
+478	609	6944879106763723	25_4_1_Med_Oper_Sim.exe	df4e37f8a08b3690
+3	461	6944941373697058	src/CMakeFiles/25_4_1_Med_Oper_Sim.dir/main.cpp.obj	ef8f526fd19b8968
+462	582	6944941374875839	src/25_4_1_Med_Oper_Sim.exe	6065f0c0bbad6649
+0	474	6944883829212643	src/CMakeFiles/25_4_1_Med_Oper_Sim.dir/coordinates.cpp.obj	dc4adf09189d83d4
+4	472	6944942195418867	src/CMakeFiles/25_4_1_Med_Oper_Sim.dir/main.cpp.obj	ef8f526fd19b8968
+4	126	6944942302098455	src/25_4_1_Med_Oper_Sim.exe	6065f0c0bbad6649
+3	460	6944944089342942	src/CMakeFiles/25_4_1_Med_Oper_Sim.dir/main.cpp.obj	ef8f526fd19b8968
+460	583	6944944090515058	src/25_4_1_Med_Oper_Sim.exe	6065f0c0bbad6649
+3	466	6944944587467111	src/CMakeFiles/25_4_1_Med_Oper_Sim.dir/main.cpp.obj	ef8f526fd19b8968
+466	587	6944944588615934	src/25_4_1_Med_Oper_Sim.exe	6065f0c0bbad6649
+4	471	6944946170694973	src/CMakeFiles/25_4_1_Med_Oper_Sim.dir/main.cpp.obj	ef8f526fd19b8968
+471	592	6944946171845580	src/25_4_1_Med_Oper_Sim.exe	6065f0c0bbad6649

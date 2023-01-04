@@ -1,0 +1,5 @@
+F:/__C++/Skillbox/25 Header files/25.4.1 Med Oper Sim/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/__C++/Skillbox/25 Header files/25.4.1 Med Oper Sim/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+F:/__C++/Skillbox/25 Header files/25.4.1 Med Oper Sim/cmake-build-debug/src/CMakeFiles/25_4_1_Med_Oper_Sim.dir
+F:/__C++/Skillbox/25 Header files/25.4.1 Med Oper Sim/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+F:/__C++/Skillbox/25 Header files/25.4.1 Med Oper Sim/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
