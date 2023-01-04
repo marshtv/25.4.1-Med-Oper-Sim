@@ -14,13 +14,10 @@ void output_coord(coordinates& coord) {
 	std::cout << "(" << coord.x << ", " << coord.y << ")";
 }
 
-void reset_coord(coordinates& coord) {
-	coord.x = 0;
-	coord.y = 0;
-}
-
-bool is_equal(coordinates& coord_1, coordinates& coord_2) {
-	if (coord_1.x == coord_2.x && coord_1.y == coord_2.y)
+bool is_equal(coordinates& sc_coord_1, coordinates& sc_coord_2,
+			  coordinates& sut_coord_1, coordinates& sut_coord_2) {
+	if (sc_coord_1.x == sut_coord_1.x && sc_coord_1.y == sut_coord_1.y &&
+		sc_coord_2.x == sut_coord_2.x && sc_coord_2.y == sut_coord_2.y)
 		return true;
 	else
 		return false;
